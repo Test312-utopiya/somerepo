@@ -11,7 +11,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 print("X:")
-
+print("this is a new model")
 x=np.linspace(1,100,30,endpoint=False)
 print(x)
 
